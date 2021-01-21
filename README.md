@@ -2,7 +2,7 @@
 
 Quickly check PDF files for accessibility red flags. Not guarantee of accessibility, but a fast indication of inaccessibility.
 
-<https://jsnmrs.github.io/pdfcheck>
+<https://communicatehealth.github.io/pdfcheck>
 
 ## Running locally
 
